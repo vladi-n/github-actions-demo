@@ -1,1 +1,1 @@
-# github-actions-demo
+# pytest-action-demo
